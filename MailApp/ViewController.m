@@ -20,6 +20,7 @@
     NSLog(@"master");
     NSLog(@"in branch11, desnt exists in master");
     NSLog(@"after merger");
+    NSLog(@"commit 1 in branch 22");
 }
 
 - (void)didReceiveMemoryWarning {
