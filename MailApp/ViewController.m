@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"master");
+    NSLog(@"in branch11, desnt exists in master");
+    NSLog(@"after merger");
 }
 
 - (void)didReceiveMemoryWarning {
