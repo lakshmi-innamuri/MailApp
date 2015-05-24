@@ -22,6 +22,10 @@
     NSLog(@"after merger");
     NSLog(@"commit 1 in branch 22");
     NSLog(@"commit 2 branch 22");
+    NSLog(@"commit to git");
+    NSLog(@"new push");
+    NSLog(@"new branch");
+    NSLog(@"commit in gitbranch");
 }
 
 - (void)didReceiveMemoryWarning {
