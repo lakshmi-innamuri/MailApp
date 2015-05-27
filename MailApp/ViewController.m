@@ -17,10 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"master");
-    NSLog(@"in branch11, desnt exists in master");
-    NSLog(@"after merger");
-    NSLog(@"commit 1 in branch 22");
+    NSLog(@"branch with an existing old commit");
 }
 
 - (void)didReceiveMemoryWarning {
